@@ -11,6 +11,13 @@ var shoes = {
 	brand: "adidas"
 };
 
+var shoes2 = {
+	type: "sneakers",
+	size: 38,
+	color: #000000,
+	brand: "nike"
+};
+
 var cardigan = {
 	color: "pink",
 	size: 38
