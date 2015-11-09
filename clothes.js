@@ -8,7 +8,7 @@ var shoes = {
 	type: "sneakers",
 	size: 38,
 	color: #000000,
-	brand: "converse"
+	brand: "nike"
 };
 
 var cardigan = {
